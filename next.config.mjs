@@ -22,10 +22,6 @@ export default defineNextConfig({
    * Reference repo for i18n:
    * @see https://github.com/juliusmarminge/t3-i18n
    **/
-  i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
-  },
   experimental: {
     runtime: "experimental-edge"
   }
